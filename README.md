@@ -1,8 +1,8 @@
-# Android Prework - *Name of App Here*
+# Lab 5 - *Data Persistence*
 
-Submitted by: **Your Name Here**
+Submitted by: **Renoldo Windham Jr**
 
-**Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Data Persistence** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: **2** hours spent in total
 
@@ -10,16 +10,8 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-* [x] Work with nested JSON and the Kotlin Serialization library
-* [x] Pass data between screens
-* [x] Use Intents and Navigation from one screen to another
-* [x] Campgrounds are displayed using the RecyclerView
-* [x] Can navigate to the Campground Details screen
-* [x] Campground images are downloaded and displayed using Glide
-
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Most recently fetched data is stored locally in a database
+* [x] If user turns on airplane mode and closes and reopens app, old data from the database should be loaded
 
 ## Video Walkthrough
 
